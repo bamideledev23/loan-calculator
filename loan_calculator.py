@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from decimal import Decimal, getcontext, ROUND_HALF_UP
 from datetime import datetime
 import math
