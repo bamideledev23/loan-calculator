@@ -17,11 +17,15 @@ A professional command-line loan calculator built in Python, designed to calcula
 ## Sample output
 ![Sample Output](sample_output.png)
 
+
+## AUTHOR
+Oluwafemi Bamidele
+
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/bamideledev23/loan-calculator.git
 
-# AUTHOR
-Oluwafemi Bamidele
+
+
